@@ -6,7 +6,12 @@ K Power Flag Symbol
 $ENDCMP
 #
 $CMP R_Variable
-D variable Resistor (Rheostat)
+D variable Resistor
+K r res resistor variable potentiometer
+$ENDCMP
+#
+$CMP Volume
+D variable Resistor
 K r res resistor variable potentiometer
 $ENDCMP
 #
