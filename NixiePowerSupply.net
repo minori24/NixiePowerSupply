@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source "C:\\Users\\Minori Takao\\Dropbox\\Dev\\KiCad\\NixiePowerSupply\\NixiePowerSupply.sch")
-    (date "2017/10/10 20:20:23")
+    (source "C:/Users/Minori Takao/Dropbox/Dev/KiCad/NixiePowerSupply/NixiePowerSupply.sch")
+    (date "2017/10/11 11:57:35")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -119,7 +119,7 @@
       (tstamp 59DBB486))
     (comp (ref C1)
       (value 100uF_16V)
-      (footprint Capacitors_THT:CP_Radial_D5.0mm_P2.00mm)
+      (footprint Capacitors_THT:CP_Radial_D6.3mm_P2.50mm)
       (libsource (lib device) (part CP))
       (sheetpath (names /) (tstamps /))
       (tstamp 59DCF078))
@@ -318,12 +318,12 @@
         (pin (num 2) (name 2) (type power_in))
         (pin (num 3) (name 3) (type passive)))))
   (libraries
-    (library (logical device)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
-    (library (logical conn)
-      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
     (library (logical regul)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\regul.lib"))
+    (library (logical conn)
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
+    (library (logical device)
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical NixiePowerSupply)
       (uri "C:\\Users\\Minori Takao\\Dropbox\\Dev\\KiCad\\NixiePowerSupply\\NixiePowerSupply.lib")))
   (nets
