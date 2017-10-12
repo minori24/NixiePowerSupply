@@ -1,0 +1,13 @@
+パーツ代替候補
+2SK3234 \200 -> 2SK3115 \60
+NJM2360AD \70 -> MC34063AN \40
+ATMEGA328P, Crystal, Cap, Regulator, (&UART, ISP Pins) \300 -> Arduino Nano Clode \300
+
+
+手持ちパーツ
+Diode 1N4148 x2pack
+Inductor 470uH x2
+R 1k x1pack
+C 0.1uF x20
+2SA1015GR x8
+R 0.15x20
