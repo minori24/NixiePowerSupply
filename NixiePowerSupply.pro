@@ -1,4 +1,4 @@
-update=2017/10/09 20:54:31
+update=2017/10/12 13:35:00
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=NixiePowerSupply
+LibName34=NixieKitLib

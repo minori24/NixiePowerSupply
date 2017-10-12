@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name NixiePowerSupply)(type KiCad)(uri ${KIPRJMOD}/NixiePowerSupply.pretty)(options "")(descr ""))
+  (lib (name NixieKitLib)(type KiCad)(uri ${KIPRJMOD}/NixieKitLib.pretty)(options "")(descr ""))
 )
